@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+
+This is a Real Estate Search app for UAE made by using Next.js, chakra-ui and rapidApi
+
+<br/>
+<img src="./assets/images/screenshot.jpg" alt="screenshot" width="800px" height="600px" />
+<br/>
 
 First, run the development server:
 
